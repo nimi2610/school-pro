@@ -1,0 +1,40 @@
+*{ margin:0px;
+    padding: 0px;
+    box-sizing: border-box;}
+
+    a{text-decoration: none;}
+
+    a:hover{color:rgb(236, 41, 41)!important;
+            transition: 0.2s all;}
+
+    .item{transition: 0.5s all;}
+
+        
+       .form-control{border-color:rgb(97, 190, 243)}
+                input:hover{border-color: aqua !important;}
+                select:hover{border-color: aqua !important;
+                       }
+                textarea:hover{border-color: aqua !important; ;}
+                .form-select{border-color:rgb(97, 190, 243);
+                          }
+
+         p, h4, hr, h6{margin:20px;
+                padding: 10px;}   
+        .mb-3{margin:20px 20px;
+                padding:5px;
+                text-align: justify;}
+               
+
+        .inner-banner{background-image: url(../img/school-images.jpg);
+                       width:100%;
+                        height:270px;
+                        background-repeat:repeat;
+                        }
+
+        .g-3{margin:10px;
+                padding:10px;}
+
+           
+          
+        
+        
